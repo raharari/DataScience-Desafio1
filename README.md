@@ -1,2 +1,2 @@
-# DataScience-Desafio1
-Repositorio para el primer desafio
+# DataScience-Desafios
+Repositorio para desafios
